@@ -63,7 +63,7 @@ nav ul li {
 /* *************************** HEADER *************************** */
 .header-wrapper {
   position: relative;
-  /* background: url('wall-and-laptop-background.jpg') no-repeat; */
+  background: url('wall-and-laptop-background.jpg') no-repeat;
   background-size: cover;
   background-position: center;
   height: 90vh;
