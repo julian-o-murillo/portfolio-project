@@ -6,6 +6,7 @@ import Navbar from './components/navbar/navbar.component';
 import Header from './components/header/header.component';
 import AboutMe from './components/about-me/about-me.component';
 import Services from './components/services/services.component';
+import Experience from './components/experience/experience.component';
 
 import Particles from 'react-tsparticles';
 import { loadFull } from 'tsparticles';
@@ -32,6 +33,7 @@ function App() {
       <Header />
       <AboutMe />
       <Services />
+      <Experience />
     </Fragment>
   );
 }
